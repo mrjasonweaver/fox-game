@@ -1,4 +1,6 @@
-import gameState from './gameState';
+import gameState, {
+  handleUserAction
+} from "./gameState";
 import initButtons from "./buttons";
 
 import {
@@ -7,7 +9,7 @@ import {
 
 
 async function init() {
-  initButtons(gameState.handleUserAction);
+  initButtons(handleUserAction);
 
   let nextTimeToTick = Date.now();
 
