@@ -92,6 +92,9 @@ body {
   right: 0;
   background-color: blueviolet;
   color: white;
+  padding: 25px;
+  border-radius: 5px;
+  font-weight: 900;
 }
 
 .modal:empty {
