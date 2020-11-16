@@ -1,5 +1,5 @@
 .btn {
-  background-image: url(/NotSelected.e734690f.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/NotSelected.e734690f.png);
   background-position: 0px;
   width: 62px;
   height: 65px;
@@ -20,15 +20,15 @@
 
 .btn:hover,
 .btn:focus {
-  background-image: url(/Hover.90d5e7bc.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/Hover.90d5e7bc.png);
 }
 
 .btn:active {
-  background-image: url(/Selected.0f877efc.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/Selected.0f877efc.png);
 }
 
 .icon {
-  background-image: url(/NotSelected.ffa5a563.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/NotSelected.ffa5a563.png);
   background-position: 0px;
   width: 56px;
   height: 65px;
@@ -47,21 +47,21 @@
 }
 
 .icon.highlighted {
-  background-image: url(/Hover.028e3f86.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/Hover.028e3f86.png);
 }
 
 .icon.active {
-  background-image: url(/Selected.9c8c29bc.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/Selected.9c8c29bc.png);
 }
 
 .fox-static {
-  background-image: url(/FoxBase.d4c2453c.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/FoxBase.d4c2453c.png);
   width: 117px;
   height: 165px;
 }
 
 .fox-idling {
-  background-image: url(/AtRest.98e65577.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/AtRest.98e65577.png);
   background-repeat: no-repeat;
   width: 117px;
   height: 165px;
@@ -75,7 +75,7 @@
 }
 
 .fox.fox-pooping {
-  background-image: url(/Pooping.6793c7e9.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/Pooping.6793c7e9.png);
   background-position: -1836px;
   background-repeat: no-repeat;
   width: 204px;
@@ -84,7 +84,7 @@
 }
 
 .fox.fox-pooped {
-  background-image: url(/Pooping.6793c7e9.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/Pooping.6793c7e9.png);
   background-position: -1836px;
   background-repeat: no-repeat;
   width: 204px;
@@ -101,7 +101,7 @@
 }
 
 .fox-celebrate.fox {
-  background-image: url(/Yay.1cdc2370.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/Yay.1cdc2370.png);
   background-repeat: no-repeat;
   width: 130.8px;
   height: 213px;
@@ -115,7 +115,7 @@
 }
 
 .fox-rain.fox {
-  background-image: url(/Rain.46375377.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/Rain.46375377.png);
   background-repeat: no-repeat;
   width: 134px;
   height: 153px;
@@ -129,7 +129,7 @@
 }
 
 .fox-hungry.fox {
-  background-image: url(/Hungry.f0dd277a.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/Hungry.f0dd277a.png);
   background-repeat: no-repeat;
   width: 130px;
   height: 160px;
@@ -144,7 +144,7 @@
 }
 
 .fox-eating.fox {
-  background-image: url(/Eating.32e19c62.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/Eating.32e19c62.png);
   background-position: -1865.7px;
   background-repeat: no-repeat;
   width: 207.3px;
@@ -164,7 +164,7 @@
 }
 
 .fox-egg.fox {
-  background-image: url(/Egg.b41d9d77.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/Egg.b41d9d77.png);
   background-repeat: no-repeat;
   background-position: -1050px;
   width: 175px;
@@ -182,7 +182,7 @@
 }
 
 .fox-dead.fox {
-  background-image: url(/TombStone.63c78ec7.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/TombStone.63c78ec7.png);
   background-repeat: no-repeat;
   width: 118px;
   height: 119px;
@@ -196,7 +196,7 @@
 }
 
 .fox-sleep.fox {
-  background-image: url(/Sleeping.3665d385.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/Sleeping.3665d385.png);
   background-repeat: no-repeat;
   width: 250px;
   height: 155px;
@@ -211,7 +211,7 @@
 
 .foreground-rain {
   display: none;
-  background-image: url(/rain.8812c3e8.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/rain.8812c3e8.png);
   animation: raining 0.5s steps(3) infinite;
   width: 606px;
   height: 516px;
@@ -232,7 +232,7 @@
 }
 
 .poop-bag {
-  background-image: url(/PoopBag.be9e843d.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/PoopBag.be9e843d.png);
   animation: swing-poop-bag 1s steps(3) infinite alternate;
   width: 99px;
   height: 104px;
@@ -246,25 +246,25 @@
 }
 
 .frame {
-  background-image: url(/FRAME.fdd1d8f8.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/FRAME.fdd1d8f8.png);
 }
 
 .game {
-  background-image: url(/DAY.dc8df24e.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/DAY.dc8df24e.png);
 }
 
 .game.night {
-  background-image: url(/NIGHT.09f0d0e7.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/NIGHT.09f0d0e7.png);
 }
 
 .game.dead {
-  background-image: url(/DEAD.e71f0c31.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/DEAD.e71f0c31.png);
 }
 
 .game.rain {
-  background-image: url(/RAINY.db01dc38.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/RAINY.db01dc38.png);
 }
 
 body {
-  background-image: url(/Canvas.146e412c.png);
+  background-image: url(https://mrjasonweaver.github.io/fox-game/Canvas.146e412c.png);
 }
