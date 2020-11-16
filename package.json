@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html --open",
+    "build": "parcel build src/index.html -d docs --no-minify --no-source-maps",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint --ignore-path ./.gitignore --fix \"./**/*.{js,ts}\"",
     "lint:check": "eslint --ignore-path ./.gitignore --quiet \"./**/*.{js,ts}\""
